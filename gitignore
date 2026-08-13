@@ -1,0 +1,14 @@
+# Gradle / 构建产物
+.gradle/
+build/
+*/build/
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+.cxx/
+
+# 系统文件
+.DS_Store
+Thumbs.db
