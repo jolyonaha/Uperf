@@ -12,6 +12,8 @@ Uperf调度模块的图形化管理器。黑白扁平设计，Material 3 风格�
 - **模块管理**：模块信息、运行状态、重启调度服务、卸载模块、重启手机
 - **主题**：浅色 / 深色 / 跟随系统
 - **隐私**：零网络权限、零数据收集，所有配置仅保存在本机
+- <img width="1200" height="2670" alt="Screenshot_2026-08-13-21-57-29-852_app uperf manager" src="https://github.com/user-attachments/assets/8852a3d4-73f6-4055-b846-f059ca003a55" />
+
 
 ## 使用要求
 
