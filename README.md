@@ -1,6 +1,6 @@
 # Uperf
 
-Uperf Game Turbo 调度模块的图形化管理器。黑白扁平设计，Material 3 风格，完全离线运行。
+Uperf调度模块的图形化管理器。黑白扁平设计，Material 3 风格，完全离线运行。
 
 ## 特性
 
